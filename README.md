@@ -14,7 +14,7 @@ Hubleto Custom aplikácia na zistenie informácií o IP adrese s možnostou ulo�
    Ak sa vaša lokálna databáza volá inak, upravte názov databázy v súbore:
    `IpInfoTest/Models/IpFavorite.php`
 
-# Vyhlásenie
+# Použitie AI
 Pri vypracovaní bolo použité AI (Gemini/ChatGPT) na:
     - Pomoc s inštaláciou frameworku Hubleto
     - Ľadenie programu
