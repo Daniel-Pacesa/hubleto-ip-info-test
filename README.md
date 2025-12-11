@@ -10,9 +10,12 @@ Hubleto Custom aplikácia na zistenie informácií o IP adrese s možnostou ulo�
 
 # Inštalácia
    Importujte súbor `custom_ip_favorites.sql` do databázy
+   Aplikácia predpokladá názov databázy `hubleto_db`
+   Ak sa vaša lokálna databáza volá inak, upravte názov databázy v súbore:
+   `IpInfoTest/Models/IpFavorite.php`
 
 # Vyhlásenie
 Pri vypracovaní bolo použité AI (Gemini/ChatGPT) na:
-    - pomoc s inštaláciou frameworku Hubleto
+    - Pomoc s inštaláciou frameworku Hubleto
     - Ľadenie programu
     - Pomoc zo zaslaním údajov o IP adrese z javascriptu do PHP
