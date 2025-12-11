@@ -9,8 +9,8 @@ Hubleto Custom aplikácia na zistenie informácií o IP adrese s možnostou ulo�
 4. Zobrazenie uložených obľúbených IP adries a informácie o nich
 
 # Inštalácia
-   Importujte súbor `custom_ip_favorites.sql` do databázy
-   Aplikácia predpokladá názov databázy `hubleto_db`
+   Importujte súbor `custom_ip_favorites.sql` do databázy.
+   Aplikácia predpokladá názov databázy `hubleto_db`.
    Ak sa vaša lokálna databáza volá inak, upravte názov databázy v súbore:
    `IpInfoTest/Models/IpFavorite.php`
 
